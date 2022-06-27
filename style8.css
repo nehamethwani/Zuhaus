@@ -1,0 +1,379 @@
+.dropdown-menu{
+    background-color: black;
+}
+.dropdown-item{
+    color:#fff;
+    
+}
+.dropdown-item li:hover{
+    color: #ffbf00;;
+}
+.btn-outline-primary{
+    color: #ffbf00;
+    border-color: #ffbf00;
+}
+.btn{
+    margin: 10px;
+}
+li.nav-item.dropdown a:hover{
+    color: #ffbf00;
+}
+li.nav-item.dropdown a{
+    color: #fff;
+}
+a.nav-link.active {
+    color: #ffbf00;
+}
+.btn-outline-primary:hover{
+    background-color: #ffbf00;
+    border-color: #ffbf00;
+}
+.container{
+    max-width: 1170px;
+    width: 100%;
+    margin: auto;
+}
+.section{
+    background: url(/re-images/banner1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.section h1{
+    color: whitesmoke;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 60px;
+}
+.icons:hover img{
+    transform: translateY(-5px);
+    cursor: pointer;
+    transition: 0.5s;
+}
+.icons img{
+    transition: 0.5s;
+}
+
+.icons p{
+    color: whitesmoke;
+    margin-top: 15px;
+}
+.icons p:hover{
+    color: lightseagreen;
+    cursor: pointer;
+}
+.icons{
+    border-left: 1px solid whitesmoke;
+}
+.form-select{
+    background-color: transparent;
+    color: whitesmoke;
+    position: relative;
+}
+.form-select:after{
+    content: "\f107";
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-family: "FontAwesome";
+    font-weight: 400;
+    color: #fff;
+    font-size: 18px;
+    width:30px;
+    height:20px;
+
+}
+.section .col-md-2:first-child .icons{
+    border: 0px !important;
+}
+.location{
+    margin-top: 40px;
+}
+.location p{
+    color: whitesmoke;
+}
+.search button{
+    background-color: #ffbf00;
+    border-color: #ffbf00;
+    width: 100%;
+    padding: 6px;
+    margin: 78px;
+    margin-left: 0px;
+    border: 0px;
+}
+.search button:hover{
+    background-color: transparent;
+    cursor: pointer;
+    border-color: #ffbf00;
+    color: whitesmoke;
+}
+option{
+    color: black;
+}
+.collage{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.collage h1{
+    text-align: center;
+}
+.collage p{
+    text-align: center;
+}
+.img5{
+    width: 100%;
+    height: 500px;
+    transition: 0.7s;
+    overflow: hidden;
+}
+.img5 img:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+.img5 img{
+    transition: 0.7s;
+}
+
+.img1{
+    width: 100%;
+    height: 240px;
+    margin-bottom: 10px;
+    transition: 0.7s;
+    overflow: hidden;
+}
+.img1 img:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+.img1 img{
+    transition: 0.7s;
+}
+
+
+
+.img2{
+    margin-top: 10px;
+    transition: 0.7s;
+    overflow: hidden;
+}
+.img2 img:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+.img2 img{
+    transition: 0.7s;
+}
+
+.img-fluid{
+    height: 240px;
+    width: 100%;
+}
+
+.img5 .img-fluid{
+    height: 500px;
+}
+.img-fluid:hover{
+    scale: (0.25 0.25);
+}
+.section2{
+    background-color: rgb(227, 223, 223);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.section2 h1{
+    text-align: center;
+}
+.section2 p{
+    text-align: center;
+}
+.section2 .container{
+    margin-top: 80px;
+}
+.text{
+    background:url(/re-images/bg-img.png) repeat #ffbf00 ;
+    padding:50px 0px;
+    background-attachment: fixed;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text button{
+    background-color: whitesmoke;
+    border-color: transparent;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.text button:hover{
+    background-color: #ffbf00;
+    border-color: black;
+    cursor: pointer;
+}
+.section3 h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.section3 p{
+    text-align: center;
+}
+.section3 .container{
+    margin-top: 60px;
+}
+.section3-img img{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    transition: 0.7s;
+    
+}
+.section3-img{
+    overflow: hidden;
+    position: relative;
+}
+.img-txt{
+    position: absolute;
+    top: -10%;
+    left: 32%;
+    color: whitesmoke;
+}
+.img-txt div{
+    width: 90px;
+    border-top: 3px solid #ffbf00;
+    padding-top: 15px;
+}
+.img-txt hr{
+    color: #ffbf00;
+    font-weight: 600;
+    text-align: center;
+}
+.section3-img img:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+}
+.section4 h1{
+    text-align: center;
+    
+}
+.section4 p{
+    text-align: center;
+}
+.section4{
+    background: url(/re-images/bg-img2.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
+.section4 button{
+    text-align: center;
+    background-color: #ffbf00;
+    border-color: transparent;
+    padding: 5px 40px;
+    border-radius: 4px;
+    display: block;
+    margin: auto;
+}
+.section4 button:hover{
+    cursor: pointer;
+    background-color: transparent;
+    border-color: #ffbf00;
+}
+div#carouselExampleIndicators{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background:url(/re-images/bg-img3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-item h1{
+    text-align: center;
+}
+.carousel-item p{
+    text-align: center;
+}
+.lg1{
+    margin-top: 60px;    
+}
+.lg1 img{
+    display: block;
+    margin: auto;
+}
+.lg2{
+    margin-top: 60px; 
+    border-left: 2px solid black;   
+}
+.lg2 img{
+    display: block;
+    margin: auto;
+}
+.text2{
+    background:url(/re-images/bg-img4.png) repeat whitesmoke ;
+    padding:50px 0px;
+    background-attachment: fixed;
+    width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text2 button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #ffbf00;
+    border-color: transparent;
+
+}
+.text2 button:hover{
+    cursor: pointer;
+    background-color: white;
+    border-color: #ffbf00;
+}
+.footer{
+    background-color: black;
+    padding: 100px 0px;
+    color: rgb(188, 188, 188);
+}
+.content h6:hover{
+    cursor: pointer;
+    color: #ffbf00;
+}
+.footer ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.footer ul i:hover{
+    color: #ffbf00;
+    cursor: pointer;
+}
+.btn-primary{
+    color: black;
+    background-color: #ffbf00;
+    border-color: transparent;
+    padding: 5px 20px;
+}
+.btn-primary:hover{
+    background-color: transparent;
+    border-color: #ffbf00;
+}
+.form-control-plaintext{
+    border-color: white;
+    border-width: 1px;
+}
+.footer2{
+    background-color: gray;
+    padding: 15px;
+    
+}
+.footer2 p{
+    text-align: center;
+}
+.small-logo li{
+    display: inline-block;
+    margin: 0px 10px;
+}
+.small-logo li:hover{
+    cursor: pointer;
+    color: #ffbf00;
+}
