@@ -1,3 +1,4 @@
+
 .dropdown-menu{
     background-color: black;
 }
@@ -34,7 +35,7 @@ a.nav-link.active {
     margin: auto;
 }
 .section{
-    background: url(/re-images/banner1.jpg);
+    background: url(./re-images/banner1.jpg);
     background-position: center;
     background-size: cover;
     padding-top: 100px;
@@ -191,7 +192,7 @@ option{
     margin-top: 80px;
 }
 .text{
-    background:url(/re-images/bg-img.png) repeat #ffbf00 ;
+    background:url(./re-images/bg-img.png) repeat #ffbf00 ;
     padding:50px 0px;
     background-attachment: fixed;
     width:100%;
@@ -259,7 +260,7 @@ option{
     text-align: center;
 }
 .section4{
-    background: url(/re-images/bg-img2.jpg);
+    background: url(./re-images/bg-img2.jpg);
     background-position: center;
     background-size: cover;
     margin-top: 100px;
@@ -284,7 +285,7 @@ option{
 div#carouselExampleIndicators{
     padding-top: 100px;
     padding-bottom: 100px;
-    background:url(/re-images/bg-img3.png);
+    background:url(./re-images/bg-img3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -311,7 +312,7 @@ div#carouselExampleIndicators{
     margin: auto;
 }
 .text2{
-    background:url(/re-images/bg-img4.png) repeat whitesmoke ;
+    background:url(./re-images/bg-img4.png) repeat whitesmoke ;
     padding:50px 0px;
     background-attachment: fixed;
     width:100%;
